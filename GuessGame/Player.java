@@ -1,3 +1,4 @@
+package guessgame;
 public class Player {
     int number = 0;
 
