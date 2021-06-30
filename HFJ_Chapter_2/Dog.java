@@ -1,3 +1,4 @@
+package HFJ_Chapter_2;
 class Dog {
     int size;
     String breed;

@@ -1,4 +1,4 @@
-package guessgame;
+package HFJ_Chapter_2.guessgame;
 public class Player {
     int number = 0;
 

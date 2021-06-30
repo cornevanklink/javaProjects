@@ -1,4 +1,4 @@
-package guessgame;
+package HFJ_Chapter_2.guessgame;
 public class GuessGame {
     Player p1;
     Player p2;

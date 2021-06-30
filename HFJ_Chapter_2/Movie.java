@@ -1,3 +1,4 @@
+package HFJ_Chapter_2;
 class Movie {
     String title;
     String genre;
